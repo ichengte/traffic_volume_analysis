@@ -1,0 +1,173 @@
+[
+    {
+        "case_name": "case1-202101072200-cluster8",
+        "label_files": [
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/202101072200-C8G0-expert-label.csv", "time_of_interest":"2021-01-06 21:00:00||2021-01-07 22:00:00"},
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/202101072200-C8G1-expert-label.csv", "time_of_interest":"2021-01-06 21:00:00||2021-01-07 21:00:00"},
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/202101072200-C8G2-expert-label.csv", "time_of_interest":"2021-01-06 21:00:00||2021-01-07 21:00:00"},
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/202101072200-C8G3-expert-label.csv", "time_of_interest":"2021-01-06 21:00:00||2021-01-07 21:00:00"},
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/202101072200-C8G4-expert-label.csv", "time_of_interest":"2021-01-06 21:00:00||2021-01-07 21:00:00"}],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/case1-202101072200-cluster8/case1-202101072200-cluster8-information.csv",
+        "interest_time": "2021-01-07 22:00:00",
+        "normal_duration": ["2021-01-02 06:00:00", "2021-01-06 10:00:00"]
+    },
+    {
+        "case_name": "case2-202101061400-Cluster21",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case2-202101061400-Cluster21/case2-202101061400-expert-label.csv", "time_of_interest":"2021-01-06 11:00:00||2021-01-06 13:00:00"}
+            
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case2-202101061400-Cluster21/case2-202101061400-Cluster21-information.csv",
+        "interest_time": "2021-01-06 13:40:00",
+        "normal_duration": ["StartTime", "2021-01-06 10:00:00"],
+        "note": "interest_time ppt上是2021-01-06 14:00:00"
+    },
+    {
+        "case_name": "case3-202101072200-Cluster10",
+        "label_files": [
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/cases/case3-202101072200-Cluster10/case3-202101072200-Cluster10-expert-label.csv", "time_of_interest": "2021-01-07 20:00:00||2021-01-07 21:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case3-202101072200-Cluster10/case3-202101072200-Cluster10-information.csv",
+        "interest_time": "2021-01-07 22:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 19:00:00"]
+    },
+    {
+        "case_name": "case4-202101071800-Cluster9",
+        "label_files": [
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/cases/case4-202101071800-Cluster9/case4-202101071800-expert-label.csv", "time_of_interest": "2021-01-07 14:00:00||2021-01-07 17:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case4-202101071800-Cluster9/case4-202101071800-Cluster9-information.csv",
+        "interest_time": "2021-01-07 18:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 14:00:00"]
+        
+    },
+    {
+        "case_name": "case5-20210106130000-Cluster11",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case5-20210106130000-Cluster11/case5-20210106130000-expert-label.csv", "time_of_interest": "2021-01-06 06:00:00||2021-01-06 12:00:00"}            
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case5-20210106130000-Cluster11/case5-20210106130000-Cluster11-information.csv",
+        "interest_time": "2021-01-06 13:00:00",
+        "normal_duration": ["StartTime", "2021-01-06 12:00:00"]
+    },
+    {
+        "case_name": "case6-20210107220000-Cluster13",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case6-20210107220000-Cluster13/case6-20210107220000-Cluster13-expert-label.csv", "time_of_interest": "2021-01-06 06:00:00||2021-01-07 21:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case6-20210107220000-Cluster13/case6-20210107220000-Cluster13-information.csv",
+        "interest_time": "2021-01-07 22:00:00",
+        "normal_duration": ["StartTime", "2021-01-06 12:00:00"]
+    },
+    {
+        "case_name": "case7-20210108140000-Cluster1",
+        "label_files": [
+            {"file":"/Users/jct/dataset/HUAWEI_GTS_data/cases/case7-20210108140000-Cluster1/case7-20210108140000-Cluster1-expert-label.csv", "time_of_interest": "2021-01-08 11:00:00||2021-01-08 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case7-20210108140000-Cluster1/case7-20210108140000-Cluster1-information.csv",
+        "interest_time": "2021-01-08 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 23:00:00"]
+    },
+    {
+        "case_name": "case8-20210106130000-Cluster10",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case8-20210106130000-Cluster10/case8-20210106130000-Cluster10-expert-label.csv", "time_of_interest": "2021-01-06 10:00:00||2021-01-06 12:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case8-20210106130000-Cluster10/case8-20210106130000-Cluster10-information.csv",
+        "interest_time": "2021-01-06 13:00:00",
+        "normal_duration": ["StartTime", "2021-01-06 10:00:00"]
+    },
+    {
+        "case_name": "case9-20210106210000-Cluster9",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case9-20210106210000-Cluster9/case9-20210106210000-Cluster9-expert-label.csv", "time_of_interest": "2020-12-29 04:00:00||2021-01-06 20:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case9-20210106210000-Cluster9/case9-20210106210000-Cluster9-information.csv",
+        "interest_time": "2021-01-06 21:00:00",
+        "normal_duration": ["2021-01-06 21:00:00", "EndTime"],
+        "note": "很多邻居小区没有上述normal_duration的数据"
+    },
+    {
+        "case_name": "case10-20210107140000-Cluster4",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case10-20210107140000-Cluster4/case10-20210107140000-Cluster4-expert-label.csv", "time_of_interest": "2021-01-07 13:00:00||2021-01-07 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case10-20210107140000-Cluster4/case10-20210107140000-Cluster4-information.csv",
+        "interest_time": "2021-01-07 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 13:00:00"]
+    },
+    {
+        "case_name": "case11-20210107140000-Cluster17",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case11-20210107140000-Cluster17/case11-20210107140000-Cluster17-expert-label.csv", "time_of_interest": "2021-01-07 11:00:00||2021-01-07 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case11-20210107140000-Cluster17/case11-20210107140000-Cluster17-information.csv",
+        "interest_time": "2021-01-07 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 10:00:00"]
+    },
+    {
+        "case_name": "case12-20210107190000-Cluster22",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case12-20210107190000-Cluster22/case12-20210107190000-Cluster22-expert-label.csv", "time_of_interest": "2021-01-07 16:00:00||2021-01-07 18:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case12-20210107190000-Cluster22/case12-20210107190000-Cluster22-information.csv",
+        "interest_time": "2021-01-07 19:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 12:00:00"],
+        "note": "找不到确切的正常时间段，可用于训练模型的数据太少"
+    },
+    {
+        "case_name": "case13-20210108100000-Cluster7",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case13-20210108100000-Cluster7/case13-20210108100000-Cluster7-expert-label.csv", "time_of_interest": "2021-01-07 04:00:00||2021-01-08 09:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case13-20210108100000-Cluster7/case13-20210108100000-Cluster7-information.csv",
+        "interest_time": "2021-01-08 10:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 03:00:00"]
+    },
+    {
+        "case_name": "case14-20210108140000-Cluster0",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case14-20210108140000-Cluster0/case14-20210108140000-Cluster0-expert-label.csv", "time_of_interest": "2021-01-08 12:00:00||2021-01-08 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case14-20210108140000-Cluster0/case14-20210108140000-Cluster0-information.csv",
+        "interest_time": "2021-01-08 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-06 13:00:00"]
+    },
+    {
+        "case_name": "case15-20210108140000-Cluster9",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case15-20210108140000-Cluster9/case15-20210108140000-Cluster9-expert-label.csv", "time_of_interest": "2021-01-07 04:00:00||2021-01-08 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case15-20210108140000-Cluster9/case15-20210108140000-Cluster9-information.csv",
+        "interest_time": "2021-01-08 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 03:00:00"]
+    },
+    {
+        "case_name": "case16-20210109170000-Cluster6",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case16-20210109170000-Cluster6/case16-20210109170000-Cluster6-expert-label.csv", "time_of_interest": "2021-01-09 12:00:00||2021-01-09 16:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case16-20210109170000-Cluster6/case16-20210109170000-Cluster6-information.csv",
+        "interest_time": "2021-01-09 17:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 03:00:00"]
+    },
+    {
+        "case_name": "case17-20210109130000-Cluster22",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case17-20210109130000-Cluster22/case17-20210109130000-Cluster22-expert-label.csv", "time_of_interest": "2021-01-09 12:00:00||2021-01-09 12:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case17-20210109130000-Cluster22/case17-20210109130000-Cluster22-information.csv",
+        "interest_time": "2021-01-09 13:00:00",
+        "normal_duration": ["StartTime", "2021-01-09 12:00:00"]
+    },
+    {
+        "case_name": "case18-20210109140000-Cluster7",
+        "label_files": [
+            {"file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case18-20210109140000-Cluster7/case18-20210109140000-Cluster7-expert-label.csv", "time_of_interest": "2021-01-09 13:00:00||2021-01-09 13:00:00"}
+        ],
+        "information_file": "/Users/jct/dataset/HUAWEI_GTS_data/cases/case18-20210109140000-Cluster7/case18-20210109140000-Cluster7-information.csv",
+        "interest_time": "2021-01-09 14:00:00",
+        "normal_duration": ["StartTime", "2021-01-07 23:00:00"]
+    }
+
+]
